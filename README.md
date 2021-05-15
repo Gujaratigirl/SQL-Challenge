@@ -12,3 +12,6 @@ I was then able to join and find the specific information that the homework requ
 With simple code I was able to pull only pertinent data from the tables and leave out redundent and unnecessary data.
 
 Is excersice was a great introduction to Sql and PGAdmin.
+
+
+I was not able to work on this project over the week therefore I do not have a lot of commits for this project.
