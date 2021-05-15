@@ -18,3 +18,6 @@ I was not able to work on this project over the week therefore I do not have a l
 
 
 QuickDBD-export.png is a visualization ERD
+Homework_SQL is a file the has the code that was used in the Query tool PGAdmin
+The Data folder holds the original csv files 
+'Backup File of PG Admin' is a file that has all of the exported 'Backup' from PGAdmin
