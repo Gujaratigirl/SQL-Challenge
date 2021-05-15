@@ -15,3 +15,6 @@ Is excersice was a great introduction to Sql and PGAdmin.
 
 
 I was not able to work on this project over the week therefore I do not have a lot of commits for this project.
+
+
+QuickDBD-export.png is a visualization ERD
