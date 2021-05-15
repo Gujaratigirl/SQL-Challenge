@@ -24,10 +24,10 @@ I was not able to work on this project over the week therefore I do not have a l
 
 
 QuickDBD-export.png is a visualization ERD. 
-QuickDBD-export (1).sql is the file created by QuickDBD for the ERD that was created that can pulled into PGAdmin.  
-HW_SQL_Query.sql File of how I ran my searches and created views of the searches. 
-HW_SQL_Schemata.sql File of how I created the schematas. 
-HW_SQL_Full.sql File with all of my work from PGAdmin. 
-Homework_SQL is a file the has the code that was used in the Query tool PGAdmin. 
-The Data folder holds the original csv files   
-'Backup File of PG Admin' is a file that has all of the exported 'Backup' from PGAdmin. 
+QuickDBD-export (1).sql is the file created by QuickDBD for the ERD that was created that can pulled into PGAdmin.   
+HW_SQL_Query.sql File of how I ran my searches and created views of the searches.  
+HW_SQL_Schemata.sql File of how I created the schematas.  
+HW_SQL_Full.sql File with all of my work from PGAdmin.  
+Homework_SQL is a file the has the code that was used in the Query tool PGAdmin.  
+The Data folder holds the original csv files.     
+'Backup File of PG Admin' is a file that has all of the exported 'Backup' from PGAdmin.  
